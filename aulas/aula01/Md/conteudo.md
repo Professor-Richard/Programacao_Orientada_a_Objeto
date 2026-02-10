@@ -1,6 +1,6 @@
 # Plano de Aula: Introdução à Orientação a Objetos
 
-## 1. Introdução Teórica
+1. ## Introdução Teórica
 
     O que é Programação Orientada a Objetos (POO)?
     É um Paradigma de programação baseado em "objetos".
@@ -34,7 +34,7 @@
 
 ---
 
-## 2. Diferença entre Classe e Objeto
+2. ## Diferença entre Classe e Objeto
 
     Classe como um molde (exemplo: "Receita de bolo").
     Objeto como uma instância específica (exemplo: "Bolo de chocolate").
@@ -58,7 +58,7 @@ civic = Carro()
 
 ---
 
-## 3. Atributos e Métodos
+3. ## Atributos e Métodos
 
 ## Atributos: São Variáveis que pertencem a uma classe ou objeto.
 
@@ -97,7 +97,7 @@ print(fusca.acelerar()) # Saída: Fusca está acelerando.
 
 ---
 
-# 4. Criação de Classes e Instanciação de Objetos
+4. # Criação de Classes e Instanciação de Objetos
 
 ## Prática:
 
@@ -137,7 +137,7 @@ print(joao.andar())
 
 ---
 
-5. Exemplos Práticos: Modelagem de Problemas do Mundo Real
+5. # Exemplos Práticos: Modelagem de Problemas do Mundo Real
    Conteúdo:
    Modelagem de problemas simples usando POO.
    Exemplos:

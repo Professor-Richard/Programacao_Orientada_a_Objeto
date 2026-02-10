@@ -1,3 +1,2 @@
-# Disciplina de Programacao Orientada a Objeto
+# Conteudo da Disciplina:  Programacao Orientada a Objeto
 
-## Conteudo das aulas
