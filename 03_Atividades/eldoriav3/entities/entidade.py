@@ -11,6 +11,8 @@ class Entidade:
         return self.vida_atual > 0
 
     def receber_dano(self, dano: int):
+        if dano < 0:
+            return
         self.vida_atual -= dano
         if self.vida_atual < 0:
             self.vida_atual = 0
